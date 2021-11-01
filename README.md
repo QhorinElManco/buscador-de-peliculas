@@ -20,5 +20,5 @@ http://buscador-peliculas-qhorin.surge.sh
 
 ### `Screenshot`
 <p align="center">
-  <img src="https://github.com/QhorinElManco/buscador-de-peliculas/blob/master/src/Screenshot..png?raw=true" width="600" title="Snapshot">
+  <img src="https://github.com/QhorinElManco/buscador-de-peliculas/blob/master/src/Screenshot..png?raw=true" width="800" title="Snapshot">
 </p>
